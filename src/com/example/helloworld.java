@@ -1,2 +1,3 @@
 HELLO
-How are you doing?
+AWS training Update
+
